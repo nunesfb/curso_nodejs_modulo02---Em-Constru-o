@@ -2,7 +2,7 @@
 
 Curso que aborda diferentes recursos e bibliotecas do NodeJS.
 
-Tópicos abordados: --> Criando o Projeto e Usando Express e Nodemon e Sucrase --> Conexão com Mongoose --> Schemas --> Seeders --> Autenticação --> Controllers -> Upload de Arquivos
+Tópicos abordados: --> Criando o Projeto e Usando Express e Nodemon e Sucrase --> Conexão com Mongoose --> Schemas --> Seeders --> Autenticação --> Controllers -> Upload de Arquivos --> Tratamento de Exceções --> Variáveis de Ambiente
 
 Vídeos com as aulas: https://www.youtube.com/playlist?list=PL2hDwB8DzXGPQxThZ-KYa761eUwpLdOrm
 
