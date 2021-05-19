@@ -20,7 +20,7 @@
 ## ✋🏻 Pré-requisitos
 
 - [Node.js](https://nodejs.org/en/)
-- [Yarn](https://yarnpkg.com/pt-BR/docs/install)
+- [Yarn](https://yarnpkg.com/pt-BR/)
 
 ## 🔥 Instalação e execução
 
