@@ -26,7 +26,7 @@
 
 1. Faça um clone desse repositório;
 2. Entre em uma das pastas do repositório, por exemplo, `cd 01 - Criando o Projeto com Nodemon e Sucrase`;
-3. Rode `yarn` dentro da pasta para instalar as dependências ;
+3. Rode `yarn` dentro da pasta para instalar as dependências;
 
 ## 📝 Licença
 
