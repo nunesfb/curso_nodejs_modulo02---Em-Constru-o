@@ -6,7 +6,7 @@
   Curso de NodeJS - Módulo 02
 </h3>
 
-<p align="center">Estes códigos pertencem à playlist de vídeos no canal do YouTube TecEdu4All</p> 
+<p align="center">Estes códigos pertencem à playlist de vídeos do canal TecEdu4All no YouTube</p> 
 
 
 ## 👨🏼‍💻 Professor
@@ -31,8 +31,8 @@
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. 
 
 ---
 
-[Se inscreva no canal para ver os vídeos deste código](https://www.youtube.com/channel/UClIDejJoLMKCfXKEyi5ZTWQ)
+[Se inscreva no canal para ver os vídeos deste código e muito mais!](https://www.youtube.com/channel/UClIDejJoLMKCfXKEyi5ZTWQ)
