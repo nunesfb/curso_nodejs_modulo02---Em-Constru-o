@@ -13,7 +13,7 @@
 
 - [Felipe Becker Nunes](https://github.com/nunesfb)
 
-## 👨🏼‍💻 Playlist
+## 🏼‍💻 Playlist
 
 - [Curso de NodeJS - Módulo 02](https://www.youtube.com/playlist?list=PL2hDwB8DzXGPQxThZ-KYa761eUwpLdOrm)
 
