@@ -3,10 +3,10 @@
 </h1>
 
 <h3 align="center">
-  TypeScript, o início
+  Curso de NodeJS - Módulo 02
 </h3>
 
-<p align="center">Nesse vídeo eu quero desmistificar algumas opiniões sobre o TypeScript e mostrar como essa linguagem de programação tem ganhado tanto espaço no coração dos devs e também no mercado.</p>
+<p align="center">Estes códigos pertencem à playlist de vídeos no canal do YouTube TecEdu4All, localizada neste endereço [endereço](https://www.youtube.com/playlist?list=PL2hDwB8DzXGPQxThZ-KYa761eUwpLdOrm).</p>
 
 
 ## 👨🏼‍💻 Professor
