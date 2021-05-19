@@ -6,7 +6,8 @@
   Curso de NodeJS - Módulo 02
 </h3>
 
-<p align="center">Estes códigos pertencem à playlist de vídeos no canal do YouTube TecEdu4All, localizada neste </p> [endereço](https://www.youtube.com/playlist?list=PL2hDwB8DzXGPQxThZ-KYa761eUwpLdOrm)
+<p align="center">Estes códigos pertencem à playlist de vídeos no canal do YouTube TecEdu4All, localizada neste </p> 
+[endereço](https://www.youtube.com/playlist?list=PL2hDwB8DzXGPQxThZ-KYa761eUwpLdOrm)
 
 
 ## 👨🏼‍💻 Professor
