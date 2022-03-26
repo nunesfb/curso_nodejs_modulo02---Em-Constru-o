@@ -1504,9 +1504,9 @@ minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 mkdirp@^0.5.1:
   version "0.5.3"
@@ -1527,13 +1527,6 @@ mongodb@3.5.5:
     safe-buffer "^5.1.2"
   optionalDependencies:
     saslprep "^1.0.0"
-
-mongoose-lean-virtuals@^0.6.1:
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/mongoose-lean-virtuals/-/mongoose-lean-virtuals-0.6.1.tgz#43ab987a2d447a264fcde24af2de0f991b821857"
-  integrity sha512-qRRavDPzHkIY9eEMCrWAL1j9HzMGHWn8lSMSYqp9n4KiZ6Qfl/FQmfHhnn0kH0YHx2jEVUYENjbHsxAepeLT+Q==
-  dependencies:
-    mpath "0.5.x"
 
 mongoose-legacy-pluralize@1.0.2:
   version "1.0.2"
@@ -1561,11 +1554,6 @@ mongoose@^5.9.7:
     safe-buffer "5.1.2"
     sift "7.0.1"
     sliced "1.0.1"
-
-mpath@0.5.x:
-  version "0.5.2"
-  resolved "https://registry.yarnpkg.com/mpath/-/mpath-0.5.2.tgz#b1eac586dffb5175d2f51ca9aacba35d9940dd41"
-  integrity sha512-NOeCoW6AYc3hLi30npe7uzbD9b4FQZKH40YKABUCCvaKKL5agj6YzvHoNx8jQpDMNPgIa5bvSZQbQpWBAVD0Kw==
 
 mpath@0.7.0:
   version "0.7.0"
