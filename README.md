@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Curso de NodeJS com Sequelize
+  Curso de NodeJS com Mongoose
 </h1>
 
 <p align="justify">Estes códigos pertencem à playlist do canal do YouTube TecEdu4All. </p> 
@@ -18,7 +18,7 @@
 
 ## 💻 Playlist/Vídeo
 
-- [Curso de NodeJS - Módulo 02](https://www.youtube.com/playlist?list=PL2hDwB8DzXGPQxThZ-KYa761eUwpLdOrm)
+- [Curso de NodeJS com Mongoose](https://www.youtube.com/playlist?list=PL2hDwB8DzXGPQxThZ-KYa761eUwpLdOrm)
 
 ## ✋🏻 Pré-requisitos
 
